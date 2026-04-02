@@ -1,0 +1,14 @@
+C:\Users\dell\Desktop\PracticaEstructuraDatos\obj\Debug\net10.0\PracticaEstructuraDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\PracticaEstructuraDatos\obj\Debug\net10.0\PracticaEstructuraDatos.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\PracticaEstructuraDatos\obj\Debug\net10.0\PracticaEstructuraDatos.AssemblyInfo.cs
+C:\Users\dell\Desktop\PracticaEstructuraDatos\obj\Debug\net10.0\PracticaEstructuraDatos.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\PracticaEstructuraDatos\bin\Debug\net10.0\PracticaEstructuraDatos.exe
+C:\Users\dell\Desktop\PracticaEstructuraDatos\bin\Debug\net10.0\PracticaEstructuraDatos.deps.json
+C:\Users\dell\Desktop\PracticaEstructuraDatos\bin\Debug\net10.0\PracticaEstructuraDatos.runtimeconfig.json
+C:\Users\dell\Desktop\PracticaEstructuraDatos\bin\Debug\net10.0\PracticaEstructuraDatos.dll
+C:\Users\dell\Desktop\PracticaEstructuraDatos\bin\Debug\net10.0\PracticaEstructuraDatos.pdb
+C:\Users\dell\Desktop\PracticaEstructuraDatos\obj\Debug\net10.0\PracticaEstructuraDatos.dll
+C:\Users\dell\Desktop\PracticaEstructuraDatos\obj\Debug\net10.0\refint\PracticaEstructuraDatos.dll
+C:\Users\dell\Desktop\PracticaEstructuraDatos\obj\Debug\net10.0\PracticaEstructuraDatos.pdb
+C:\Users\dell\Desktop\PracticaEstructuraDatos\obj\Debug\net10.0\PracticaEstructuraDatos.genruntimeconfig.cache
+C:\Users\dell\Desktop\PracticaEstructuraDatos\obj\Debug\net10.0\ref\PracticaEstructuraDatos.dll
